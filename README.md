@@ -1,4 +1,1 @@
-# To-Do-App
-# TTP-Assignment-7
-<img width="871" alt="Screenshot 2023-06-27 at 11 20 10 PM" src="https://github.com/VitaliPri/TTP-8/assets/101225909/b054b65c-516e-4cfe-a307-31ad7b275cb7">
-# ToDo-App
+[scrnli_7_8_2023_5-01-56 PM.webm](https://github.com/VitaliPri/ToDo-App/assets/101225909/7316ba37-5cd9-4adf-85dd-cd4e582f6a99)
